@@ -5,4 +5,3 @@ MAINTAINER Kim Borup <kborup@redhat.com>
 COPY www/* /usr/share/nginx/html/
 
 USER nobody
-GROUP nobody
